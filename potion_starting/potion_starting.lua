@@ -3,6 +3,9 @@ dofile_once("data/scripts/lib/utilities.lua")
 dofile_once("data/scripts/items/init_potion.lua")
 
 
+--this file should be located at "data/scripts/items/potion_starting.lua"
+
+
 ---Default potion material
 local potion_material = "water"
 
